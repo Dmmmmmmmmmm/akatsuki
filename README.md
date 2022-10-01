@@ -1,7 +1,7 @@
 git clone https://github.com/Dmmmmmmmmmm/akatsuki.git
 
 
-Cd akatsuki
+cd akatsuki
 
 
-Python akatsuki.py
+python akatsuki.py
